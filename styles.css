@@ -1,3 +1,24 @@
+.container {
+	text-align: center;
+}
+.box {
+	display: inline-block;
+	width: 45%; 
+	margin: 10px;
+	padding: 20px;
+	background-color: #f0f0f0;
+	border: 1px solid #ccc;
+	vertical-align: top; 
+}
+#prof{
+	text-align:left
+}
+h1{
+	margin-left:10px;
+}
+img{
+	float:left;
+}
 .skill-bar {
 	height: 25px;
 	background-color: #e0e0e0;
